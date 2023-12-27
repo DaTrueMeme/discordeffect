@@ -2,7 +2,7 @@
 Discord Effect
 Version 0.1
 -
-Add a discord effect to your minecraft server with a simple resource pack and plugin!
+This plugin allows you to add a custom "Join our Discord" message in the players inventory using an effect.
 
 ## Setup
 Download both the .zip (resource pack) and .jar (plugin) file. Put the .jar file into your server plugins folder, and setup the .zip file as your server resource pack with this tutorial: https://www.youtube.com/watch?v=qCVPgn3IppU.
